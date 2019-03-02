@@ -1,0 +1,28 @@
+body{
+  margin:0;
+  padding:0;
+}
+a {
+  color: white;
+  
+}
+
+
+.hero {
+    color: #fafafa;
+    background: linear-gradient(50deg, HSLA(205, 45%, 44%, 1), #7b2936);
+    width: 100%;
+	height: 100%;
+text-align:center;
+  font-size:30px; 
+
+display: inline-block;
+position: relative;
+
+
+text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
+
+
+  
+  
+}
