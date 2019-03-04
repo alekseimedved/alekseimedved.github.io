@@ -1,0 +1,40 @@
+body{
+  margin:0;
+  padding:0;
+}
+a {
+  color: white;
+  
+}
+
+
+.textread{
+	background:#696969;
+	display: inline-block;
+	padding: 3px 10px;
+	
+}
+
+.cent{
+	text-align:center;
+	font-family:Optima, sans-serif;
+	font-size:30px; 	
+}
+
+.hero {
+    color: #fafafa;
+    background: linear-gradient(50deg, HSLA(140, 61%, 45%, 1), #7b2936);
+    width: 100%;
+  font-size:25px; 
+
+
+display: inline-block;
+position: relative;
+font-family:Optima, sans-serif;
+
+
+
+
+  
+  
+}
